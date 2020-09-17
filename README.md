@@ -1,10 +1,10 @@
 # event_expo
 
-EventExpo
+# EventExpo
 
 EventExpo app allows users to reserve tickets for all kind of events which include sports, harvesting, kayaking, painting and many more. EventExpo gives an opportunity for user to host events. The major advantage of using EventExpo app is to handle all the events together at one place where user can switch to differnet pages inside the app rather than opening a different app for each type of event resulting(results in) a good user expereince by using EventExpo App. SignUp the EventExpo and let the events add wings to your daily life. 
 
-EventExpo Admin Flow:
+## EventExpo Admin Flow:
 
 We have provided an admin hyperlink in the user login page where admin can login and manage the events.After login, the admin can able to see the Home page with differnet events to organise like sports that includes cricket, soccer as of now, harvesting, kayaking and painting.
 EventExpo app under admin login in Homepage has two buttons Maintain Events and User Registration Detials.
@@ -12,7 +12,7 @@ Under Maintian Events admin can organize the events or edit or delete as per the
 Under User Registration Detials, Admin can able to see the user booking detials and events booked by users. Admin has the right to edit the User Detials or cancel the request if any illegal bookings/activities done.
 Every page has the save button, where admin can save his changes after editing detials or organizing the events.
 
-EventExpo User Flow:
+## EventExpo User Flow:
 
 User uses the login page to access the EventExpo App, We have provided the functionlity for user to signup if User is not a registered with EventExpo.And, also if user 
 forgets password by providing the user id/email-id he can change or create a new password.
