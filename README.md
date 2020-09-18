@@ -14,7 +14,6 @@ EventExpo app allows users to reserve tickets for all kind of events which inclu
 ### User
 Login:
 This is the welcome page of the app. Users have to login to access the events.
-![](https://github.com/annie0sc/event_expo/blob/master/expo_images/welcome%20page.jpg)
 
 Registration:
 If user is using our app for the first time, then they have to sign-up with their email id and have a unique user id.
