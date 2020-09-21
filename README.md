@@ -27,13 +27,13 @@ Once the user logs in, where the user can find the list of events where he can g
 
 <img src="https://github.com/annie0sc/event_expo/blob/master/expo_images/user-home-page.jpg?raw=true" width="200" height="400" />
 
+#### Share Event:
+Users can share events with their friends through text messages, WhatsApp, etc.
+
 #### Cart:
 The users can review their order in the cart page.
 
 <img src="https://github.com/annie0sc/event_expo/blob/master/expo_images/cartpage.jpg?raw=true" width="200" height="400" />
-
-#### Share Event:
-Users can share events with their friends through text messages, WhatsApp, etc.
 
 #### Payment (Booking confirmation):
 Users can finish their orders by paying. They can pay through either debit/credit card or electronic cheque or PayPal.
