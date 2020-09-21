@@ -114,6 +114,10 @@ Every page has the save button, where admin can save his changes after editing d
 
 ## EventExpo User Flow:
 
+![user1](https://github.com/annie0sc/event_expo/blob/master/expo_images/User_page_flow.jpg?raw=true)
+
+![user2](https://github.com/annie0sc/event_expo/blob/master/expo_images/user_Flow.jpg?raw=true)
+
 User uses the login page to access the EventExpo App, We have provided the functionlity for user to signup if User is not a registered with EventExpo.And, also if user 
 forgets password by providing the user id/email-id he can change or create a new password.
 After successfull login, User enters into Home Screen where he can search or find a particular event that User is interested in and make a booking or reserve the ticket for particular time or date.
