@@ -12,45 +12,45 @@ EventExpo app allows users to reserve tickets for all kind of events which inclu
 
 ## Activities:
 ### User
-Login:\
+#### Login:
 This is the welcome page of the app. Users have to login to access the events.
 
 <img src="https://github.com/annie0sc/event_expo/blob/master/expo_images/welcome%20page.jpg?raw=true" width="200" height="400" />
 
-Registration:\
+#### Registration:
 If the user is using our app for the first time, then they have to sign-up with their email id and have a unique user id.
 
 <img src="https://github.com/annie0sc/event_expo/blob/master/expo_images/annie%20layouts_signUp.jpg?raw=true" width="200" height="400" />
 
-Home Page:\
+#### Home Page:
 Once the user logs in, where the user can find the list of events where he can get the event details. And can add the events to the cart.
 
 <img src="https://github.com/annie0sc/event_expo/blob/master/expo_images/user-home-page.jpg?raw=true" width="200" height="400" />
 
-Cart:\
+#### Cart:
 The users can review their order in the cart page.
 
 <img src="https://github.com/annie0sc/event_expo/blob/master/expo_images/cartpage.jpg?raw=true" width="200" height="400" />
 
-Share Event:\
+#### Share Event:
 Users can share events with their friends through text messages, WhatsApp, etc.
 
-Payment (Booking confirmation):\
+#### Payment (Booking confirmation):
 Users can finish their orders by paying. They can pay through either debit/credit card or electronic cheque or PayPal.
 
 <img src="https://github.com/annie0sc/event_expo/blob/master/expo_images/annie_layouts_payment.jpg?raw=true" width="200" height="400" />
 
-Booking History:\
+#### Booking History:
 Users can view their bookings or previous order on the order history page.
 
 <img src="https://github.com/annie0sc/event_expo/blob/master/expo_images/Order_History.jpg?raw=true" width="200" height="400" />
 
-Profile update:\
+#### Profile update:
 Users can update their profile with their most recent details on our profile page. They can also reset their password on this page.
 
 <img src="https://github.com/annie0sc/event_expo/blob/master/expo_images/annie_layouts_profile_edit.jpg?raw=true" width="200" height="400" />
 
-About App:\
+#### About App:
 Users can view the basic information about our app on the about page.
 
 <img src="https://github.com/annie0sc/event_expo/blob/master/expo_images/About.jpg?raw=true" width="200" height="400" />
