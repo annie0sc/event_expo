@@ -1,7 +1,7 @@
 
 
 # EventExpo
-
+## Description
 EventExpo app allows users to reserve tickets for all kind of events which include sports, harvesting, kayaking, painting and many more. EventExpo gives an opportunity for user to host events. The major advantage of using EventExpo app is to handle all the events together at one place where user can switch to differnet pages inside the app rather than opening a different app for each type of event resulting(results in) a good user expereince by using EventExpo App. SignUp the EventExpo and let the events add wings to your daily life. 
 
 ## Team members:
@@ -16,19 +16,50 @@ Login:
 This is the welcome page of the app. Users have to login to access the events.
 
 Registration:
-If user is using our app for the first time, then they have to sign-up with their email id and have a unique user id.
+If the user is using our app for the first time, then they have to sign-up with their email id and have a unique user id.
+
 Home Page:
-Once the user logs in, this is home page with list of events and their details.
+Once the user logs in, where the user can find the list of events where he can get the event details. And can add the events to the cart.
+
 Cart:
 The users can review their order in the cart page.
+
+Share Event:
+Users can share events with their friends through text messages, WhatsApp, etc.
+
+Payment (Booking confirmation):
+Users can finish their orders by paying. They can pay through either debit/credit card or electronic cheque or PayPal.
+
+Booking History:
+Users can view their bookings or previous order on the order history page.
+
+Profile update:
+Users can update their profile with their most recent details on our profile page. They can also reset their password on this page.
+
+About App:
+Users can view the basic information about our app on the about page.
+
+Registration:
+If user is using our app for the first time, then they have to sign-up with their email id and have a unique user id.
+
+Home Page:
+Once the user logs in, this is home page with list of events and their details.
+
+Cart:
+The users can review their order in the cart page.
+
 Share Event:
 Users can share the events with their friends through text message, WhatsApp etc.
+
 Payment (Booking confirmation):
 Users can finish their order by paying. They can pay through either debit/credit card or electronic cheque or PayPal.
+
 Booking History:
 Users can view their bookings or previous order in the order history page.
+
 Profile update:
 Users can update their profile with their most recent details in our profile page. They can also reset their password in this page.
+
 About App:
 Users can view the basic information about our app in the about page.
 
