@@ -63,6 +63,45 @@ Users can update their profile with their most recent details in our profile pag
 About App:
 Users can view the basic information about our app in the about page.
 
+### Admin
+
+Admin Login:\
+Username and password are admin credentials these are unique, and these credentials are given by the developers. 
+In the admin login page, the admin needs to fill the required fields like username and password.
+Click login.
+
+Admin Home page:\
+In the Admin home page, we have options like 
+•	Adding a new event, 
+•	Maintaining the events, 
+•	Check for the particular bookings of the registered users
+•	Logout.
+
+Add Event- Admin:\
+In this page, the admin can add an event by giving fields like event name, event date, time and price.
+
+Event maintained Page (Admin):\
+In this page admin can edit the events which are previously added to the database like changing the event name, event date, time and price or he can delete the event.
+
+Check for registered users to the events:\
+Admin can see the details of customer event bookings.
+
+Logout:\
+Admin can logout from the application.
+
+Data persistence: \
+For live data, we are storing the data into the Realtime database of firebase, from where we can retrieve the data throughout the application. 
+ 
+## Future enhancements:
+Limiting to a certain number of seats:\
+We are planning to add a feature where we can acknowledge users regarding the number of seats are available.
+
+Wishlist:\
+This is where the user can sort his interesting events and add them to the wish list immediately.
+
+Sync with Calendar:\
+Here we are planning to add a new feature to sync our application with the calendar.
+
 
 
 ## EventExpo Admin Flow:
