@@ -106,6 +106,8 @@ Here we are planning to add a new feature to sync our application with the calen
 
 ## EventExpo Admin Flow:
 
+![admin](https://github.com/annie0sc/event_expo/blob/master/expo_images/Admin_workflow.jpg?raw=true)
+
 We have provided an admin hyperlink in the user login page where admin can login and manage the events.After login, the admin can able to see the Home page with differnet events to organise like sports that includes cricket, soccer as of now, harvesting, kayaking and painting.
 EventExpo app under admin login in Homepage has two buttons Maintain Events and User Registration Detials.
 Under Maintian Events admin can organize the events or edit or delete as per the daily shcedule.
