@@ -35,8 +35,6 @@ The users can review their order in the cart page.
 Share Event:\
 Users can share events with their friends through text messages, WhatsApp, etc.
 
-<img src="?raw=true" width="200" height="400" />
-
 Payment (Booking confirmation):\
 Users can finish their orders by paying. They can pay through either debit/credit card or electronic cheque or PayPal.
 
@@ -59,41 +57,39 @@ Users can view the basic information about our app on the about page.
 
 ### Admin
 
-Admin Login:\
+#### Admin Login:
 Username and password are admin credentials these are unique, and these credentials are given by the developers. 
 In the admin login page, the admin needs to fill the required fields like username and password.
 Click login.
 
-<img src="?raw=true" width="200" height="400" />
+<img src="https://github.com/annie0sc/event_expo/blob/master/expo_images/AdminLogin.jpg?raw=true" width="200" height="400" />
 
-Admin Home page:\
+#### Admin Home page:
 In the Admin home page, we have options like 
 •	Adding a new event, 
 •	Maintaining the events, 
 •	Check for the particular bookings of the registered users
 •	Logout.
 
-<img src="?raw=true" width="200" height="400" />
+<img src="https://github.com/annie0sc/event_expo/blob/master/expo_images/annie_layouts_admin_home.jpg?raw=true" width="200" height="400" />
 
-Add Event- Admin:\
+#### Add Event- Admin:
 In this page, the admin can add an event by giving fields like event name, event date, time and price.
 
-<img src="?raw=true" width="200" height="400" />
+<img src="https://github.com/annie0sc/event_expo/blob/master/expo_images/AddEvent.jpg?raw=true" width="200" height="400" />
 
-Event maintained Page (Admin):\
+#### Event maintained Page (Admin):
 In this page admin can edit the events which are previously added to the database like changing the event name, event date, time and price or he can delete the event.
 
-<img src="?raw=true" width="200" height="400" />
+<img src="https://github.com/annie0sc/event_expo/blob/master/expo_images/Admin-maintain-events.jpg?raw=true" width="200" height="400" />
 
-Check for registered users to the events:\
+#### Check for registered users to the events:
 Admin can see the details of customer event bookings.
 
-<img src="?raw=true" width="200" height="400" />
+<img src="https://github.com/annie0sc/event_expo/blob/master/expo_images/admin-registereduserevents.jpg?raw=true" width="200" height="400" />
 
-Logout:\
+#### Logout:
 Admin can logout from the application.
-
-<img src="?raw=true" width="200" height="400" />
 
 ## Data persistence: 
 For live data, we are storing the data into the Realtime database of firebase, from where we can retrieve the data throughout the application. 
